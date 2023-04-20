@@ -7,6 +7,9 @@
   - https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
 - https://phaser.io/
   - Has pre-built libraries for things like physics and graphics rendering
+- Examples
+  - Space Shooter (https://github.com/kiwphi/pop-shoot)
+  - Mortal Kombat (https://github.com/mgechev/mk.js)
 
 ## GameMaker (2D games)
 https://gamemaker.io/en
